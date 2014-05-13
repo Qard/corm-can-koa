@@ -1,0 +1,14 @@
+{
+  "name": "corm-can-koa",
+  "version": "0.1.0",
+  "description": "A convenient middleware for using corm-can with koa",
+  "author": "Stephen Belanger <admin@stephenbelanger.com>",
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": [
+    "corm",
+    "can",
+    "corm-can",
+    "koa"
+  ]
+}
