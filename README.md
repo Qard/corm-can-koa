@@ -1,5 +1,7 @@
 # corm-can-koa
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Qard/corm-can-koa.svg)](https://greenkeeper.io/)
+
 This is a simple module for generating koa-compatible middleware to add access control to particular routes using a user model loaded at `this.user` with the `can()` method attached. See [corm-can](https://github.com/Qard/corm-can) for details on how to attach the `can()` method.
 
 # Usage
